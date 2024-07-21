@@ -29,8 +29,8 @@ data = {
         }],
         "stream":True,
         "n":3,
-        "userid":"jkpathfinder",
-        "password":"tian20007188"
+        "userid":"",
+        "password":""
     }
 
 # send post request
